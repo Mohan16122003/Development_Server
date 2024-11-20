@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"position":{"$numberInt":"1"}},"name":"position_1","background":true,"unique":true}],"uuid":"3f312530c56a4071b15057a908f43f0d","collectionName":"leadstatuses","type":"collection"}

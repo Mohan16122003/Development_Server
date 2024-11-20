@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"72c61c48198749af89ffe132ec27156f","collectionName":"creditnotes","type":"collection"}

@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"c11fae82b7694b009a4d417c2852b62a","collectionName":"customertimelines","type":"collection"}

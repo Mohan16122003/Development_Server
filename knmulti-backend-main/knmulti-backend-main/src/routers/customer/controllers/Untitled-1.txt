@@ -1,0 +1,4 @@
+HR=> Employee management and attendance.
+Accounting => Account 
+Sales => self attendance, Leave request, add docs, add contact address, add new lead.
+admin=> all access.

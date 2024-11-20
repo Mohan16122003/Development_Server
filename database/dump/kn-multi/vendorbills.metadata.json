@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"6240e24bea3e4ea0ae9a2725f611414c","collectionName":"vendorbills","type":"collection"}
